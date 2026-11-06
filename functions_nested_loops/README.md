@@ -26,3 +26,6 @@ Prints the last digit of a number and returns its value.
 
 ## 8. Jack Bauer
 Prints every minute of the day, from 00:00 to 23:59.
+
+## 9. Times table
+Prints the 9 times table, starting with 0.
