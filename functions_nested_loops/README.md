@@ -20,3 +20,6 @@ Prints the sign of a number and returns 1, 0 or -1.
 
 ## 6. Absolute value
 Computes the absolute value of an integer.
+
+## 7. Last digit
+Prints the last digit of a number and returns its value.
