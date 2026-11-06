@@ -7,3 +7,6 @@ Fixes a loop and return value so the function sums 1 to n.
 
 ## 1. Nested loops
 Fixes a nested loop that skipped values so the full multiplication table prints.
+
+## 2. Function state
+Fixes a variable that accumulated across loop iterations so the total is correct.
