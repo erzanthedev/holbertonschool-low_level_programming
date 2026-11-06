@@ -32,3 +32,6 @@ Prints the 9 times table, starting with 0.
 
 ## 10. a + b
 Adds two integers and returns the result.
+
+## 11. Print to 98
+Prints all integers from n to 98, followed by a new line.
