@@ -28,3 +28,6 @@ Draws a diagonal line on the terminal.
 
 ## 8. Square
 Prints a square of # characters of the given size.
+
+## 9. Fizz-Buzz
+Prints 1 to 100, using Fizz, Buzz and FizzBuzz for multiples of 3, 5 and both.
