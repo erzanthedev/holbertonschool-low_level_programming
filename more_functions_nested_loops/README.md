@@ -1,0 +1,6 @@
+# C - More Functions, More Nested Loops
+
+Tasks on functions and nested loops in C, written in Betty style and compiled with `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`.
+
+## 0. isupper
+Checks whether a character is uppercase.
