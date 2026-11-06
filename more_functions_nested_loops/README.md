@@ -7,3 +7,6 @@ Checks whether a character is uppercase.
 
 ## 1. isdigit
 Checks whether a character is a digit (0 through 9).
+
+## 2. Multiplication
+Multiplies two integers and returns the result.
