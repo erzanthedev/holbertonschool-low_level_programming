@@ -11,3 +11,6 @@ Prints the lowercase alphabet 10 times, each followed by a new line.
 
 ## 3. islower
 Checks whether a character is lowercase.
+
+## 4. isalpha
+Checks whether a character is a letter, lowercase or uppercase.
