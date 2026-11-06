@@ -13,7 +13,7 @@ c = 'a';
 
 while (c <= 'z')
 {
-if (c != 'e' && c != 'e')
+if (c != 'q' && c != 'e')
 {
 putchar(c);
 }
