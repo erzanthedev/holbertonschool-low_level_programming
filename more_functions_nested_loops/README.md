@@ -22,3 +22,6 @@ Prints the numbers from 0 to 14 ten times, each followed by a new line.
 
 ## 6. Line
 Draws a straight line of underscores in the terminal.
+
+## 7. Diagonal
+Draws a diagonal line on the terminal.
