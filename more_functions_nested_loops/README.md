@@ -4,3 +4,6 @@ Tasks on functions and nested loops in C, written in Betty style and compiled wi
 
 ## 0. isupper
 Checks whether a character is uppercase.
+
+## 1. isdigit
+Checks whether a character is a digit (0 through 9).
