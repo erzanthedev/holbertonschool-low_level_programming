@@ -20,4 +20,8 @@ A script that compiles a file and creates an executable
 
 # 4-puts.c
 
-A c program that prints out a given text
+A c program that prints out a given text using puts
+
+# 5-printf.c
+
+A c program that prints out a given text using printf
