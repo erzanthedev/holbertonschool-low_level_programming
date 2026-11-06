@@ -19,3 +19,6 @@ Prints the numbers from 0 to 9, except 2 and 4.
 
 ## 5. More numbers
 Prints the numbers from 0 to 14 ten times, each followed by a new line.
+
+## 6. Line
+Draws a straight line of underscores in the terminal.
