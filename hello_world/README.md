@@ -25,3 +25,7 @@ A c program that prints out a given text using puts
 # 5-printf.c
 
 A c program that prints out a given text using printf
+
+# 6-size.c
+
+A c program that prints out sizes of data types used in memory
