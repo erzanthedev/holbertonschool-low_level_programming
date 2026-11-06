@@ -25,3 +25,6 @@ Draws a straight line of underscores in the terminal.
 
 ## 7. Diagonal
 Draws a diagonal line on the terminal.
+
+## 8. Square
+Prints a square of # characters of the given size.
