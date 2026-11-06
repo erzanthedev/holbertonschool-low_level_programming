@@ -17,3 +17,6 @@ Checks whether a character is a letter, lowercase or uppercase.
 
 ## 5. Sign
 Prints the sign of a number and returns 1, 0 or -1.
+
+## 6. Absolute value
+Computes the absolute value of an integer.
