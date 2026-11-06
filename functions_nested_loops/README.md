@@ -14,3 +14,6 @@ Checks whether a character is lowercase.
 
 ## 4. isalpha
 Checks whether a character is a letter, lowercase or uppercase.
+
+## 5. Sign
+Prints the sign of a number and returns 1, 0 or -1.
