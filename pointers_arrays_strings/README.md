@@ -34,3 +34,7 @@ Practice with pointers, arrays and strings in C.
 
 ### 10. atoi
 `_atoi` converts a string to an int.
+
+## Part 2: strings, arrays and encoding
+
+More string and array functions in C.
