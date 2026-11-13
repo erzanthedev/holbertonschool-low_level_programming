@@ -31,3 +31,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 9. strcpy
 `_strcpy` copies a string into a buffer and returns the buffer.
+
+### 10. atoi
+`_atoi` converts a string to an int.
