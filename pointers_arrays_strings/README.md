@@ -28,3 +28,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 8. Print array
 `print_array` prints n ints separated by commas.
+
+### 9. strcpy
+`_strcpy` copies a string into a buffer and returns the buffer.
