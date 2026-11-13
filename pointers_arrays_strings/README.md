@@ -13,3 +13,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 3. puts
 `_puts` prints a string followed by a new line.
+
+### 4. Print reverse
+`print_rev` prints a string in reverse, then a new line.
