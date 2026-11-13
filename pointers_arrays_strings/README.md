@@ -44,3 +44,6 @@ More string and array functions in C.
 
 ### 1. strncat
 `_strncat` appends at most n bytes of one string to another.
+
+### 2. strncpy
+`_strncpy` copies a string, padding with null bytes up to n.
