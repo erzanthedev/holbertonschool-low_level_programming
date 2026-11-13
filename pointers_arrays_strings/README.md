@@ -10,3 +10,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 2. strlen
 `_strlen` returns the length of a string.
+
+### 3. puts
+`_puts` prints a string followed by a new line.
