@@ -19,3 +19,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 5. Reverse string
 `rev_string` reverses a string in place.
+
+### 6. puts2
+`puts2` prints every other character, starting with the first.
