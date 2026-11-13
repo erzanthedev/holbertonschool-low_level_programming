@@ -41,3 +41,6 @@ More string and array functions in C.
 
 ### 0. strcat
 `_strcat` appends one string to another.
+
+### 1. strncat
+`_strncat` appends at most n bytes of one string to another.
