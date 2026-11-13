@@ -25,3 +25,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 7. puts half
 `puts_half` prints the second half of a string.
+
+### 8. Print array
+`print_array` prints n ints separated by commas.
