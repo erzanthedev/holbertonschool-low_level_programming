@@ -16,3 +16,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 4. Print reverse
 `print_rev` prints a string in reverse, then a new line.
+
+### 5. Reverse string
+`rev_string` reverses a string in place.
