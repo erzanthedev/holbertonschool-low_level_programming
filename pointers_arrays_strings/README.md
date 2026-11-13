@@ -50,3 +50,6 @@ More string and array functions in C.
 
 ### 3. strcmp
 `_strcmp` compares two strings like `strcmp`.
+
+### 4. Reverse array
+`reverse_array` reverses an int array in place.
