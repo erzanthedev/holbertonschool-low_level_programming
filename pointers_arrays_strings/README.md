@@ -22,3 +22,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 6. puts2
 `puts2` prints every other character, starting with the first.
+
+### 7. puts half
+`puts_half` prints the second half of a string.
