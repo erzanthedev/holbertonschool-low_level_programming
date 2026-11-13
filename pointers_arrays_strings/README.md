@@ -53,3 +53,6 @@ More string and array functions in C.
 
 ### 4. Reverse array
 `reverse_array` reverses an int array in place.
+
+### 5. string_toupper
+`string_toupper` uppercases all lowercase letters.
