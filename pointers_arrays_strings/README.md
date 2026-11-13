@@ -59,3 +59,6 @@ More string and array functions in C.
 
 ### 6. cap_string
 `cap_string` capitalizes the first letter of every word.
+
+### 7. leet
+`leet` encodes a string into 1337 speak.
