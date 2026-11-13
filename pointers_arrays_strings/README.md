@@ -38,3 +38,6 @@ Practice with pointers, arrays and strings in C.
 ## Part 2: strings, arrays and encoding
 
 More string and array functions in C.
+
+### 0. strcat
+`_strcat` appends one string to another.
