@@ -56,3 +56,6 @@ More string and array functions in C.
 
 ### 5. string_toupper
 `string_toupper` uppercases all lowercase letters.
+
+### 6. cap_string
+`cap_string` capitalizes the first letter of every word.
