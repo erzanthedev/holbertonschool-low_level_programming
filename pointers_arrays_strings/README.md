@@ -47,3 +47,6 @@ More string and array functions in C.
 
 ### 2. strncpy
 `_strncpy` copies a string, padding with null bytes up to n.
+
+### 3. strcmp
+`_strcmp` compares two strings like `strcmp`.
