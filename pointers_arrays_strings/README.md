@@ -7,3 +7,6 @@ Practice with pointers, arrays and strings in C.
 
 ### 1. Swap
 `swap_int` swaps the values of two integers.
+
+### 2. strlen
+`_strlen` returns the length of a string.
