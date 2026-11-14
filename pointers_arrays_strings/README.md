@@ -81,3 +81,6 @@ Pointer to pointer, multidimensional arrays and common string functions in C.
 
 ### 4. strpbrk
 `_strpbrk` finds the first byte in a string that matches any of a set of bytes.
+
+### 5. strstr
+`_strstr` finds the first occurrence of a substring.
