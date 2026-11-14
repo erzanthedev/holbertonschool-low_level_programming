@@ -75,3 +75,6 @@ Pointer to pointer, multidimensional arrays and common string functions in C.
 
 ### 2. strchr
 `_strchr` returns a pointer to the first occurrence of a character, or NULL.
+
+### 3. strspn
+`_strspn` returns the length of the initial segment made only of accepted bytes.
