@@ -72,3 +72,6 @@ Pointer to pointer, multidimensional arrays and common string functions in C.
 
 ### 1. memcpy
 `_memcpy` copies n bytes from one memory area to another.
+
+### 2. strchr
+`_strchr` returns a pointer to the first occurrence of a character, or NULL.
