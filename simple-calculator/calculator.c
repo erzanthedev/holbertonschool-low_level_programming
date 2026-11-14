@@ -21,9 +21,9 @@ void printMenu(void)
 int main(void)
 {
 	int choice;
-	double num1;
-	double num2;
-	double results;
+	int num1;
+	int num2;
+	int result;
 
 	do {
 		printMenu();
@@ -38,16 +38,22 @@ int main(void)
 		{
 			printf("Invalid choice\n");
 		}
-		else if (choice == 1)
+		else if (choice >= 1 && choice <= 4)
 		{
 			printf("A: ");
-			scanf("%lf", &num1);
+			scanf("%d", &num1);
 			printf("B: ");
-			scanf("%lf", &num2);
+			scanf("%d", &num2);
 
-			results = num1 + num2;
-
-			printf("Result: %.2f \n", results);
+			if (choice == 1)
+			{
+				result = num1 + num2;
+			}
+			else if (choice == 2)
+			{
+				result = num1 - num2;
+			}
+			printf("Result: %d \n", result);
 		}
 	} while (choice != 0);
 	return (0);
