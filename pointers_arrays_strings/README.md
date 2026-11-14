@@ -84,3 +84,6 @@ Pointer to pointer, multidimensional arrays and common string functions in C.
 
 ### 5. strstr
 `_strstr` finds the first occurrence of a substring.
+
+### 6. Chessboard
+`print_chessboard` prints an 8x8 chessboard.
