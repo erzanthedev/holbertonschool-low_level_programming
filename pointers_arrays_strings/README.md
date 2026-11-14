@@ -62,3 +62,7 @@ More string and array functions in C.
 
 ### 7. leet
 `leet` encodes a string into 1337 speak.
+
+## Part 3: memory and string functions
+
+Pointer to pointer, multidimensional arrays and common string functions in C.
