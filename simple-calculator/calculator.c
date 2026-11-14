@@ -19,15 +19,13 @@ void printMenu(void)
 int main(void)
 {
 	int choice;
-	int num1;
-	int num2;
-	int result;
-
+	float num1;
+	float num2;
+	float result;
 	do {
 		printMenu();
 		printf("Choice: ");
 		scanf("%d", &choice);
-
 		if (choice == 0)
 		{
 			puts("Bye!");
@@ -39,9 +37,9 @@ int main(void)
 		else if (choice >= 1 && choice <= 4)
 		{
 			printf("A: ");
-			scanf("%d", &num1);
+			scanf("%f", &num1);
 			printf("B: ");
-			scanf("%d", &num2);
+			scanf("%f", &num2);
 			if (choice == 1)
 			{
 				result = num1 + num2;
@@ -54,7 +52,18 @@ int main(void)
 			{
 				result = num1 * num2;
 			}
-			printf("Result: %d \n", result);
+			else if (choice == 4)
+			{
+				if (num2 == 0)
+				{
+					puts("Error: division by zero");
+				}
+				else
+				{
+					result = num1 / num2;
+				}
+			}
+			printf("Result: %g \n", result);
 		}
 	} while (choice != 0);
 	return (0);
