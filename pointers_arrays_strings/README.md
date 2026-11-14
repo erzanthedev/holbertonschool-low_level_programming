@@ -69,3 +69,6 @@ Pointer to pointer, multidimensional arrays and common string functions in C.
 
 ### 0. memset
 `_memset` fills the first n bytes of memory with a constant byte.
+
+### 1. memcpy
+`_memcpy` copies n bytes from one memory area to another.
