@@ -19,3 +19,15 @@ Prompts for `A` and `B`, then prints `A - B`.
 ### Multiplication
 Prompts for `A` and `B`, then prints `A * B`.
 
+### Division
+Prompts for `A` and `B`, then prints `A / B`, or `Error: division by zero` if `B` is `0`.
+
+## Numeric Behavior
+
+All operands and results are decimals (`double`).
+Results print with `%g`, so whole numbers show without decimals. 
+
+## Known Limitations
+
+- Non-numeric input such as `x` or `1abc` is not handled and can cause a loop forever.
+- Results with more than 6 significant digits may print in scientific notation.
