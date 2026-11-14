@@ -12,3 +12,10 @@ Repeats the menu until quit and prints `Invalid choice` for numbers not in the m
 
 ### Addition
 Prompts for `A` and `B`, then prints `A + B`.
+
+### Subtraction
+Prompts for `A` and `B`, then prints `A - B`.
+
+### Multiplication
+Prompts for `A` and `B`, then prints `A * B`.
+

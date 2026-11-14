@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * printMenu - Prints the calculator menu
  */
@@ -12,7 +11,6 @@ void printMenu(void)
 	puts("4) Divide");
 	puts("0) Quit");
 }
-
 /**
  * main - Entry point
  *
@@ -44,7 +42,6 @@ int main(void)
 			scanf("%d", &num1);
 			printf("B: ");
 			scanf("%d", &num2);
-
 			if (choice == 1)
 			{
 				result = num1 + num2;
@@ -52,6 +49,10 @@ int main(void)
 			else if (choice == 2)
 			{
 				result = num1 - num2;
+			}
+			else if (choice == 3)
+			{
+				result = num1 * num2;
 			}
 			printf("Result: %d \n", result);
 		}
