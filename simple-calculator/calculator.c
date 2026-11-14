@@ -19,9 +19,9 @@ void printMenu(void)
 int main(void)
 {
 	int choice;
-	float num1;
-	float num2;
-	float result;
+	double num1;
+	double num2;
+	double result;
 	do {
 		printMenu();
 		printf("Choice: ");
@@ -37,9 +37,9 @@ int main(void)
 		else if (choice >= 1 && choice <= 4)
 		{
 			printf("A: ");
-			scanf("%f", &num1);
+			scanf("%lf", &num1);
 			printf("B: ");
-			scanf("%f", &num2);
+			scanf("%lf", &num2);
 			if (choice == 1)
 			{
 				result = num1 + num2;
