@@ -87,3 +87,6 @@ Pointer to pointer, multidimensional arrays and common string functions in C.
 
 ### 6. Chessboard
 `print_chessboard` prints an 8x8 chessboard.
+
+### 7. Diagonal sums
+`print_diagsums` prints the sums of both diagonals of a square matrix.
