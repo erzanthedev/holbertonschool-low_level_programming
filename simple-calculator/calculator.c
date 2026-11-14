@@ -22,6 +22,7 @@ int main(void)
 	double num1;
 	double num2;
 	double result;
+
 	do {
 		printMenu();
 		printf("Choice: ");
@@ -41,27 +42,17 @@ int main(void)
 			printf("B: ");
 			scanf("%lf", &num2);
 			if (choice == 1)
-			{
 				result = num1 + num2;
-			}
 			else if (choice == 2)
-			{
 				result = num1 - num2;
-			}
 			else if (choice == 3)
-			{
 				result = num1 * num2;
-			}
 			else if (choice == 4)
 			{
 				if (num2 == 0)
-				{
 					puts("Error: division by zero");
-				}
 				else
-				{
 					result = num1 / num2;
-				}
 			}
 			printf("Result: %g \n", result);
 		}
